@@ -1,6 +1,6 @@
 # Disruptive Architectures IOT e IA
 
-Vídeo: URL_AQUI
+Vídeo demonstrando a execução do algoritmo: [https://youtu.be/IX9uUxg3hN0](https://youtu.be/IX9uUxg3hN0)
 
 ## Tabela de conteúdos
 
